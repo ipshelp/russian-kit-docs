@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as o,b as r}from"./app.a036f931.js";const s={},c={id:"login-mail-ru-md",tabindex:"-1"},i=o("a",{class:"header-anchor",href:"#login-mail-ru-md","aria-hidden":"true"},"#",-1),_=r(" login/mail-ru.md"),n=[i,_];function d(l,m){return a(),t("h1",c,n)}var u=e(s,[["render",d],["__file","mail-ru.html.vue"]]);export{u as default};

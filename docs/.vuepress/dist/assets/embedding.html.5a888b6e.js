@@ -1,0 +1,1 @@
+const e={key:"v-2ef3841d",path:"/v1/embedding.html",title:"embedding.md",lang:"ru",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649947302e3},filePathRelative:"v1/embedding.md"};export{e as data};

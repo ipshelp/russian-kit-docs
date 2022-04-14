@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,a as n,b as o}from"./app.a036f931.js";const s={},i={id:"installation-md",tabindex:"-1"},c=n("a",{class:"header-anchor",href:"#installation-md","aria-hidden":"true"},"#",-1),_=o(" installation.md"),r=[c,_];function l(d,h){return e(),a("h1",i,r)}var f=t(s,[["render",l],["__file","installation.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const t={key:"v-73fb83db",path:"/v1/transliteration.html",title:"transliteration.md",lang:"ru",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649947302e3},filePathRelative:"v1/transliteration.md"};export{t as data};

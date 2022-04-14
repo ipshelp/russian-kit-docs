@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as o,a as c,b as t}from"./app.a036f931.js";const n={},s={id:"changelog-md",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#changelog-md","aria-hidden":"true"},"#",-1),r=t(" changelog.md"),d=[_,r];function h(l,i){return a(),o("h1",s,d)}var m=e(n,[["render",h],["__file","changelog.html.vue"]]);export{m as default};

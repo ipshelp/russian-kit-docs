@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,a,b as n}from"./app.44781c93.js";const o={},r={id:"russian-kit",tabindex:"-1"},c=a("a",{class:"header-anchor",href:"#russian-kit","aria-hidden":"true"},"#",-1),i=n(" Russian Kit"),_=[c,i];function d(h,f){return t(),s("h1",r,_)}var u=e(o,[["render",d],["__file","index.html.vue"]]);export{u as default};
