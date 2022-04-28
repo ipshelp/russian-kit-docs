@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as s,a as t,d as r}from"./app.b607ab04.js";const n={},o={id:"sharing-md",tabindex:"-1"},c=t("a",{class:"header-anchor",href:"#sharing-md","aria-hidden":"true"},"#",-1),_=r(" sharing.md"),d=[c,_];function h(i,m){return a(),s("h1",o,d)}var l=e(n,[["render",h],["__file","sharing.html.vue"]]);export{l as default};

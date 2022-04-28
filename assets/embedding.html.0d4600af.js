@@ -1,0 +1,1 @@
+import{_ as e,o as d,c as t,a,d as n}from"./app.b607ab04.js";const o={},s={id:"embedding-md",tabindex:"-1"},c=a("a",{class:"header-anchor",href:"#embedding-md","aria-hidden":"true"},"#",-1),_=n(" embedding.md"),r=[c,_];function i(m,h){return d(),t("h1",s,r)}var l=e(o,[["render",i],["__file","embedding.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+const e={key:"v-56a81000",path:"/v1/changelog.html",title:"changelog.md",lang:"ru",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649947302e3,contributors:[{name:"Ilya Hoilik",email:"ilya@hoilik.com",commits:1}]},filePathRelative:"v1/changelog.md"};export{e as data};

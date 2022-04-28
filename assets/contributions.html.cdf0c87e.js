@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,a as n,d as s}from"./app.b607ab04.js";const c={},r={id:"contributions-md",tabindex:"-1"},a=n("a",{class:"header-anchor",href:"#contributions-md","aria-hidden":"true"},"#",-1),i=s(" contributions.md"),_=[a,i];function d(h,u){return e(),o("h1",r,_)}var f=t(c,[["render",d],["__file","contributions.html.vue"]]);export{f as default};

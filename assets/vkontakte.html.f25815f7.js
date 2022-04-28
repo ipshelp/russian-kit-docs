@@ -1,0 +1,1 @@
+const t={key:"v-059e9542",path:"/v1/login/vkontakte.html",title:"login/vkontakte.md",lang:"ru",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649947302e3,contributors:[{name:"Ilya Hoilik",email:"ilya@hoilik.com",commits:1}]},filePathRelative:"v1/login/vkontakte.md"};export{t as data};

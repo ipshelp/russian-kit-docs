@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as s,a as t,d}from"./app.b607ab04.js";const n={},o={id:"yandex-maps-md",tabindex:"-1"},c=t("a",{class:"header-anchor",href:"#yandex-maps-md","aria-hidden":"true"},"#",-1),_=d(" yandex-maps.md"),r=[c,_];function m(h,i){return a(),s("h1",o,r)}var p=e(n,[["render",m],["__file","yandex-maps.html.vue"]]);export{p as default};

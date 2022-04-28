@@ -1,0 +1,1 @@
+const e={key:"v-08ee4497",path:"/v1/acp-search.html",title:"acp-search.md",lang:"ru",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649947302e3,contributors:[{name:"Ilya Hoilik",email:"ilya@hoilik.com",commits:1}]},filePathRelative:"v1/acp-search.md"};export{e as data};

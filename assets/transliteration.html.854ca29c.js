@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,a as r,d as n}from"./app.b607ab04.js";const o={},s={id:"transliteration-md",tabindex:"-1"},i=r("a",{class:"header-anchor",href:"#transliteration-md","aria-hidden":"true"},"#",-1),c=n(" transliteration.md"),_=[i,c];function d(l,h){return e(),a("h1",s,_)}var f=t(o,[["render",d],["__file","transliteration.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const a={key:"v-68336341",path:"/v1/yandex-maps.html",title:"yandex-maps.md",lang:"ru",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649947302e3,contributors:[{name:"Ilya Hoilik",email:"ilya@hoilik.com",commits:1}]},filePathRelative:"v1/yandex-maps.md"};export{a as data};

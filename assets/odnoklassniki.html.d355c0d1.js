@@ -1,0 +1,1 @@
+const i={key:"v-208d3d57",path:"/v1/login/odnoklassniki.html",title:"login/odnoklassniki.md",lang:"ru",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649947302e3,contributors:[{name:"Ilya Hoilik",email:"ilya@hoilik.com",commits:1}]},filePathRelative:"v1/login/odnoklassniki.md"};export{i as data};
